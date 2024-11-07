@@ -49,12 +49,6 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/renangrothe/renangrothe/output/snake.svg" alt="Snake animation" />
-
-###
-
 <p align="left">A machine that turns coffee into code.</p>
 
 ###
