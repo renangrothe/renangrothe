@@ -23,21 +23,11 @@
 ### 🛠 **Tech Stack**
 
 <div align="left">
-  <!-- Programming Languages -->
-  <img src="https://skillicons.dev/icons?i=c,java,python," alt="Languages" />
-  
-  <!-- Databases -->
-  <img src="https://skillicons.dev/icons?i=mysql,postgres" alt="Databases" />
-  
-  <!-- DevOps -->
-  <img src="https://skillicons.dev/icons?i=docker,aws,gcp,git,githubactions" alt="DevOps" />
-  
-  <!-- Tools -->
-  <img src="https://skillicons.dev/icons?i=vim,idea,linux" alt="Tools" />
+
+  <img src="https://skillicons.dev/icons?i=c,java,python," alt="Languages" /><img src="https://skillicons.dev/icons?i=mysql,postgres" alt="Databases" /><img src="https://skillicons.dev/icons?i=docker,aws,gcp,git,githubactions" alt="DevOps" /><img src="https://skillicons.dev/icons?i=vim,idea,linux" alt="Tools" />
 </div>
 
 ### 📊 **GitHub Analytics**
-
 
 
 <div align="center">
@@ -51,8 +41,7 @@
 
 
 <!-- Add your project pins here -->
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=renangrothe&repo=IMDB2SQLINSERTION&theme=vision-friendly-dark&show_icons=true])](https://github.com/renangrothe/IMDB2SQLINSERTION)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=renangrothe&repo=Sistema-De-Avaliacao-de-Series&theme=vision-friendly-dark&show_icons=true)](https://github.com/renangrothe/Sistema-De-Avaliacao-de-Series)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=renangrothe&repo=IMDB2SQLINSERTION&theme=vision-friendly-dark&show_icons=true])](https://github.com/renangrothe/IMDB2SQLINSERTION)[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=renangrothe&repo=Sistema-De-Avaliacao-de-Series&theme=vision-friendly-dark&show_icons=true)](https://github.com/renangrothe/Sistema-De-Avaliacao-de-Series)
 
 ###
 
