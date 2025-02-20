@@ -24,7 +24,7 @@
 
 <div align="left">
 
-  <img src="https://skillicons.dev/icons?i=c,java,python" alt="Languages"/><img src="https://skillicons.dev/icons?i=mysql,postgres" alt="Databases" /><img src="https://skillicons.dev/icons?i=docker,aws,gcp,git,githubactions" alt="DevOps"/><img src="https://skillicons.dev/icons?i=vim,idea,linux" alt="Tools" />
+  <img src="https://skillicons.dev/icons?i=c,java,python," alt="Languages"/><img src="https://skillicons.dev/icons?i=mysql,postgres," alt="Databases" /><img src="https://skillicons.dev/icons?i=docker,aws,gcp,git,githubactions," alt="DevOps"/><img src="https://skillicons.dev/icons?i=vim,idea,linux" alt="Tools" />
 </div>
 
 ### 📊 **GitHub Analytics**
