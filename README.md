@@ -1,60 +1,84 @@
-<h2 align="left">Hi 👋! My name is Renan and I'm a CS Student, from Brazil.</h2>
-
-###
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=renangrothe&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=renangrothe&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&duration=4000&pause=1000&color=00F72F&center=true&vCenter=true&width=435&lines=Hi+👋,+I'm+Renan;CS+Student+from+Brazil;Tech+Enthusiast;Full-Stack+Learner" alt="Typing SVG" />
 </div>
 
 ###
 
-<img align="right" height="150" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2Y5aW43ZGcza3N3YmRzMThzNXRrdWt0Z3h4ejg2eWQ0dTFkZ2pkOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/rRzxhs9jdpVxS/giphy.gif"  />
+🌍 **About Me**
+- 🎓 Computer Science Student @ [Institution Name]
+- 💼 Currently working on [Current Project]
+- 🌱 Learning **Cloud Computing** & **AI/ML**
+- 🚀 Passionate about Open Source
+- ☕ Coffee-powered coder
 
-###
+
+### 🔬**Data Science & ML**
+ 
+<div align="left"> 
+ 
+ <img src="https://skillicons.dev/icons?i=tensorflow,keras,python,numpy,matplotlib" alt="DS Stack" /> <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white" height="24" alt="scikit-learn"/>
+  
+</div>
+  
+### 🛠 **Tech Stack**
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="30" alt="anaconda logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="30" alt="googlecloud logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
+  <!-- Programming Languages -->
+  <img src="https://skillicons.dev/icons?i=c,java,python," alt="Languages" />
+  
+  <!-- Databases -->
+  <img src="https://skillicons.dev/icons?i=mysql,postgres" alt="Databases" />
+  
+  <!-- DevOps -->
+  <img src="https://skillicons.dev/icons?i=docker,aws,gcp,git,githubactions" alt="DevOps" />
+  
+  <!-- Tools -->
+  <img src="https://skillicons.dev/icons?i=vim,idea,linux" alt="Tools" />
 </div>
 
-###
+### 📊 **GitHub Analytics**
 
-<div align="left">
-  <a href="https://instagram.com/re.grothe" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a>
-  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
-  <a href="discordapp.com/users/440929552437608459" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  </a>
-  <a href="https://mail.google.com/mail/u/?authuser=renansuana@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/regrothe/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-</div>
 
-###
-
-<p align="left">A machine that turns coffee into code.</p>
-
-###
 
 <div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&username=renangrothe" alt="Layout with last medium posts"  />
+  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=renangrothe&show_icons=true&theme=vision-friendly-dark&hide_border=true" />
+  <img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=renangrothe&theme=vision-friendly-dark&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=renangrothe&layout=compact&theme=vision-friendly-dark&hide_border=true" />
+</div>
+
+### 🚀 **Latest Projects**
+
+
+
+<!-- Add your project pins here -->
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=renangrothe&repo=IMDB2SQLINSERTION&theme=vision-friendly-dark&show_icons=true])](https://github.com/renangrothe/IMDB2SQLINSERTION)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=renangrothe&repo=Sistema-De-Avaliacao-de-Series&theme=vision-friendly-dark&show_icons=true)](https://github.com/renangrothe/Sistema-De-Avaliacao-de-Series)
+
+###
+
+📫 **Connect with Me**
+
+<div align="left">
+  <a href="https://linkedin.com/in/regrothe" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:renansuana@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://dev.to/renangrothe" target="_blank">
+    <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" />
+  </a>
+  <a href="https://medium.com/@renangrothe" target="_blank">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
+  </a>
 </div>
 
 ###
+
+🎯 **Weekly Development Breakdown**
+
+<!-- Replace with your own WakaTime stats -->
+```text
+Python        ████████████████░░░░░░░░░   65.0% 
+JavaScript    ████████░░░░░░░░░░░░░░░░░   30.0%
+Other         ██░░░░░░░░░░░░░░░░░░░░░░░   5.0%
