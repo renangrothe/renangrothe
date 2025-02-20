@@ -16,7 +16,7 @@
  
 <div align="left"> 
  
- <img src="https://skillicons.dev/icons?i=tensorflow,keras,python,numpy,matplotlib" alt="DS Stack" /> <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white" height="24" alt="scikit-learn"/>
+ <img src="https://skillicons.dev/icons?i=tensorflow,keras,python,numpy,matplotlib" alt="DS Stack"/><img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white" height="24" alt="scikit-learn"/>
   
 </div>
   
@@ -24,7 +24,7 @@
 
 <div align="left">
 
-  <img src="https://skillicons.dev/icons?i=c,java,python," alt="Languages" /><img src="https://skillicons.dev/icons?i=mysql,postgres" alt="Databases" /><img src="https://skillicons.dev/icons?i=docker,aws,gcp,git,githubactions" alt="DevOps" /><img src="https://skillicons.dev/icons?i=vim,idea,linux" alt="Tools" />
+  <img src="https://skillicons.dev/icons?i=c,java,python," alt="Languages"/><img src="https://skillicons.dev/icons?i=mysql,postgres" alt="Databases" /><img src="https://skillicons.dev/icons?i=docker,aws,gcp,git,githubactions" alt="DevOps"/><img src="https://skillicons.dev/icons?i=vim,idea,linux" alt="Tools" />
 </div>
 
 ### 📊 **GitHub Analytics**
