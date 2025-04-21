@@ -34,18 +34,21 @@ Software engineer specializing in full-stack development and data science. Compu
 ## Technical Expertise
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=python,java,c" alt="Languages"/>
-  <img src="https://skillicons.dev/icons?i=tensorflow,aws,gcp" alt="Platforms"/>
-  <img src="https://skillicons.dev/icons?i=docker,git,githubactions" alt="DevOps"/>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql" alt="Databases"/>
+  <img src="https://skillicons.dev/icons?i=python,java,c,cpp,tensorflow,pytorch" alt="Core Tech"/>
+  <br>
+  <img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,git" alt="Platforms"/>
+  <br>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb" alt="Databases"/>
 </div>
 
 ## Data Science & ML
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=tensorflow,python,numpy" alt="DS Core"/>
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white" height="24" alt="scikit-learn"/>
-  <img src="https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white" height="24" alt="keras"/>
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,python" alt="DS Core"/>
+  <img src="https://skillicons.dev/icons?i=opencv" alt="CV"/>
+  <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn"/>
+  <img src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white" alt="keras"/>
+  <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" alt="numpy"/>
 </div>
 
 ## Projects Overview
