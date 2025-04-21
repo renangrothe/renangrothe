@@ -21,14 +21,14 @@ Software engineer specializing in full-stack development and data science. Compu
 ## Core Competencies
 
 ```python
-skills = {
+  skills = {
     "Languages": ["Python", "Java", "C", "SQL"],
     "Data Science": ["TensorFlow", "Keras", "NumPy", "Scikit-learn", "Matplotlib"],
     "Cloud": ["AWS", "GCP", "Docker"],
     "DevOps": ["CI/CD", "Git", "GitHub Actions"],
     "Databases": ["PostgreSQL", "MySQL"],
     "Tools": ["Linux", "IntelliJ IDEA", "Vim"]
-}
+  }
 ```
 
 ## Technical Expertise
