@@ -63,5 +63,5 @@ Software engineer specializing in full-stack development and data science. Compu
 ---
 
 <div align="center">
-  <i>"Software is a great combination of artistry and engineering." - Bill Gates</i>
+  <i>"The good thing about standards is that there are so many to choose from." - Andrew S. Tanenbaum</i>
 </div>
