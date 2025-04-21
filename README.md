@@ -1,53 +1,12 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&duration=4000&pause=1000&color=00F72F&center=true&vCenter=true&width=435&lines=Hi+👋,+I'm+Renan;CS+Student+from+Brazil;Tech+Enthusiast;Full-Stack+Learner" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=3498DB&center=true&vCenter=true&width=435&lines=Renan+Grothe;Computer+Science+%7C+Data+Science;Full-Stack+Developer" alt="Typing SVG" />
 </div>
 
-###
+## About Me
 
-🌍 **About Me**
-- 🎓 Computer Science Student @ [Institution Name]
-- 💼 Currently working on [Current Project]
-- 🌱 Learning **Cloud Computing** & **AI/ML**
-- 🚀 Passionate about Open Source
-- ☕ Coffee-powered coder
-
-
-### 🔬**Data Science & ML**
- 
-<div align="left"> 
- 
- <img src="https://skillicons.dev/icons?i=tensorflow,keras,python,numpy,matplotlib" alt="DS Stack"/><img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white" height="24" alt="scikit-learn"/>
-  
-</div>
-  
-### 🛠 **Tech Stack**
-
-<div align="left">
-
-  <img src="https://skillicons.dev/icons?i=c,java,python," alt="Languages"/><img src="https://skillicons.dev/icons?i=mysql,postgres," alt="Databases" /><img src="https://skillicons.dev/icons?i=docker,aws,gcp,git,githubactions," alt="DevOps"/><img src="https://skillicons.dev/icons?i=vim,idea,linux" alt="Tools" />
-</div>
-
-### 📊 **GitHub Analytics**
-
+Software engineer specializing in full-stack development and data science. Computer Science student with hands-on experience in cloud computing and machine learning. Passionate about building scalable solutions and contributing to open-source projects.
 
 <div align="center">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=renangrothe&show_icons=true&theme=vision-friendly-dark&hide_border=true" />
-  <img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=renangrothe&theme=vision-friendly-dark&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=renangrothe&layout=compact&theme=vision-friendly-dark&hide_border=true" />
-</div>
-
-### 🚀 **Latest Projects**
-
-
-
-<!-- Add your project pins here -->
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=renangrothe&repo=IMDB2SQLINSERTION&theme=vision-friendly-dark&show_icons=true])](https://github.com/renangrothe/IMDB2SQLINSERTION)[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=renangrothe&repo=Sistema-De-Avaliacao-de-Series&theme=vision-friendly-dark&show_icons=true)](https://github.com/renangrothe/Sistema-De-Avaliacao-de-Series)
-
-###
-
-📫 **Connect with Me**
-
-<div align="left">
   <a href="https://linkedin.com/in/regrothe" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
@@ -59,5 +18,50 @@
   </a>
 </div>
 
-###
+## Core Competencies
 
+```python
+skills = {
+    "Languages": ["Python", "Java", "C", "SQL"],
+    "Data Science": ["TensorFlow", "Keras", "NumPy", "Scikit-learn", "Matplotlib"],
+    "Cloud": ["AWS", "GCP", "Docker"],
+    "DevOps": ["CI/CD", "Git", "GitHub Actions"],
+    "Databases": ["PostgreSQL", "MySQL"],
+    "Tools": ["Linux", "IntelliJ IDEA", "Vim"]
+}
+```
+
+## Technical Expertise
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=python,java,c" alt="Languages"/>
+  <img src="https://skillicons.dev/icons?i=tensorflow,aws,gcp" alt="Platforms"/>
+  <img src="https://skillicons.dev/icons?i=docker,git,githubactions" alt="DevOps"/>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql" alt="Databases"/>
+</div>
+
+## Data Science & ML
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=tensorflow,python,numpy" alt="DS Core"/>
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white" height="24" alt="scikit-learn"/>
+  <img src="https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white" height="24" alt="keras"/>
+</div>
+
+## Projects Overview
+
+[![IMDB2SQLINSERTION](https://github-readme-stats.vercel.app/api/pin/?username=renangrothe&repo=IMDB2SQLINSERTION&theme=tokyonight&hide_border=true)](https://github.com/renangrothe/IMDB2SQLINSERTION)
+[![Sistema De Avaliacao de Series](https://github-readme-stats.vercel.app/api/pin/?username=renangrothe&repo=Sistema-De-Avaliacao-de-Series&theme=tokyonight&hide_border=true)](https://github.com/renangrothe/Sistema-De-Avaliacao-de-Series)
+
+## GitHub Analytics
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=renangrothe&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renangrothe&layout=compact&theme=tokyonight&hide_border=true" />
+</div>
+
+---
+
+<div align="center">
+  <i>"Software is a great combination of artistry and engineering." - Bill Gates</i>
+</div>
