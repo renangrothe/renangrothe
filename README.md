@@ -23,7 +23,7 @@ Software engineer specializing in full-stack development and data science. Compu
 ```python
   skills = {
     "Languages": ["Python", "Java", "C", "SQL"],
-    "Data Science": ["TensorFlow", "Keras", "NumPy", "Scikit-learn", "Matplotlib"],
+    "Data Science": ["TensorFlow", "Keras", "NumPy", "Scikit-learn", "PyTorch", "Matplotlib"],
     "Cloud": ["AWS", "GCP", "Docker"],
     "DevOps": ["CI/CD", "Git", "GitHub Actions"],
     "Databases": ["PostgreSQL", "MySQL"],
@@ -38,7 +38,7 @@ Software engineer specializing in full-stack development and data science. Compu
   <br>
   <img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,git" alt="Platforms"/>
   <br>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb" alt="Databases"/>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql" alt="Databases"/>
 </div>
 
 ## Data Science & ML
