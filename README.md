@@ -17,7 +17,7 @@ NAME
       renangrothe — cs student, kernel gremlin, color theorist by accident
 
 SYNOPSIS
-      renangrothe [--arch] [--emacs] [low-level | machine-learning | both]
+      renangrothe [--arch] [--nvim] [low-level | machine-learning | both]
 
 DESCRIPTION
       Operates somewhere between gdb(1) and gradient descent.
